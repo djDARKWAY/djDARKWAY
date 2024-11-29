@@ -2,7 +2,7 @@
 
 ###
 
-<p align="right">I am a student in the CTeSP in Cybersecurity, Networks, and Information Systems at ESTG - P.PORTO, with a strong interest in software development, cryptography, and Cybersecurity. I have extensive practical experience in software development and database management. I stand out for my ability to solve problems creatively and my commitment to excellence in every project. Additionally, I am a DJ and music producer in electronic music, showcasing project management skills, creativity, and the ability to work under pressure. I hold important positions at my university, representing myself as class delegate, board member of the Lousada campus, and member of the Núcleo de Estudantes de Informática (NEI).</p>
+<p align="left">I am a student in the CTeSP in Cybersecurity, Networks, and Information Systems at ESTG - P.PORTO, with a strong interest in software development, cryptography, and Cybersecurity. I have extensive practical experience in software development and database management. I stand out for my ability to solve problems creatively and my commitment to excellence in every project. Additionally, I am a DJ and music producer in electronic music, showcasing project management skills, creativity, and the ability to work under pressure. I hold important positions at my university, representing myself as class delegate, board member of the Lousada campus, and member of the Núcleo de Estudantes de Informática (NEI).</p>
 
 ###
 
