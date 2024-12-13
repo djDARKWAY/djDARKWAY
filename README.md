@@ -2,10 +2,8 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">
-🎓CTeSP em Cibersegurança, Redes e Sistemas Informáticos na ESTG - P.PORTO<br>
+🎓 CTeSP em Cibersegurança, Redes e Sistemas Informáticos na ESTG - P.PORTO<br>
 🛠️ Experiência prática em desenvolvimento de software e gestão de bases de dados<br>
 🔐 Interesse em criptografia, desenvolvimento de software e cibersegurança<br>
 🏫 Representante académico como delegado de turma e membro ativo do Núcleo de Estudantes de Informática (NEI)<br>
