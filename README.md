@@ -3,11 +3,10 @@
 ###
 
 <p align="left">
-🎓 CTeSP em Cibersegurança, Redes e Sistemas Informáticos na ESTG - P.PORTO<br>
-🛠️ Experiência prática em desenvolvimento de software e gestão de bases de dados<br>
-🔐 Interesse em criptografia, hacking étnico, desenvolvimento de software e cibersegurança<br>
-🏫 Representante académico como delegado de turma e membro ativo do Núcleo de Estudantes de Informática (NEI)<br>
-🎧 DJ e produtor de música eletrónica como "DARKWAY"
+🎓 Estudante de Cibersegurança, Redes e Sistemas Informáticos na ESTG - P.PORTO, com forte interesse em criptografia, ethical hacking, desenvolvimento de software e cibersegurança.<br>
+💻 Experiência prática em desenvolvimento de software, criptografia e gestão de bases de dados.<br>
+🏫 Atuo como delegado de turma, responsável pela ESTG (Lousada) e sou membro ativo do NEI (Núcleo de Estudantes de Informática) da ESTG<br>
+🎧 Sou DJ e produtor musical sob o nome "DARKWAY"
 </p>
 
 ###
