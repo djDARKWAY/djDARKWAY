@@ -2,20 +2,23 @@
 
 ###
 
-<p align="left">
-🎓 Estudante de Cibersegurança, Redes e Sistemas Informáticos na ESTG - P.PORTO, com forte interesse em criptografia, ethical hacking, desenvolvimento de software e cibersegurança.<br>
-💻 Experiência prática em desenvolvimento de software, criptografia e gestão de bases de dados.<br>
-🏫 Atuo como delegado de turma, responsável pela ESTG (Lousada) e sou membro ativo do NEI (Núcleo de Estudantes de Informática) da ESTG<br>
-🎧 Sou DJ e produtor musical sob o nome "DARKWAY"
+<p>
+  🎓 <strong>Estudante</strong> de Cibersegurança, Redes e Sistemas Informáticos na <strong>ESTG - P.PORTO</strong>strong><br>
+  - Interesse em criptografia, ethical hacking, desenvolvimento de software e cibersegurança<br>
+  💻 <strong>Experiência</strong> em desenvolvimento de software, criptografia e gestão de bases de dados<br>
+  🏫 <strong>Delegado de turma</strong> e vogal pela ESTG (Lousada)<br>
+  - Membro ativo do <strong>NEI</strong> (Núcleo de Estudantes de Informática)<br>
+  🎧 <strong>DJ e produtor musical</strong>"
 </p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djDARKWAY&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=djDARKWAY&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=djDARKWAY&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="130" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djDARKWAY&theme=gotham&hide_border=false" height="130" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djDARKWAY&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="130" alt="stats graph" />
 </div>
-
+ 
 ###
 
 <h2 align="left">Tech stack:</h2>
