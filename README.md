@@ -8,7 +8,7 @@
   💻 <strong>Experiência</strong> em desenvolvimento de software, criptografia e gestão de bases de dados<br>
   🏫 <strong>Delegado de turma</strong> e vogal pela ESTG (Lousada)<br>
   - Membro ativo do <strong>NEI</strong> (Núcleo de Estudantes de Informática)<br>
-  🎧 <strong>DJ e produtor musical</strong>"
+  🎧 <strong>DJ e produtor musical</strong>
 </p>
 
 ###
