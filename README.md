@@ -3,7 +3,7 @@
 ###
 
 <p>
-  🎓 <strong>Estudante</strong> de Cibersegurança, Redes e Sistemas Informáticos na <strong>ESTG - P.PORTO</strong>strong><br>
+  🎓 <strong>Estudante</strong> de Cibersegurança, Redes e Sistemas Informáticos na <strong>ESTG - P.PORTO</strong><br>
   - Interesse em criptografia, ethical hacking, desenvolvimento de software e cibersegurança<br>
   💻 <strong>Experiência</strong> em desenvolvimento de software, criptografia e gestão de bases de dados<br>
   🏫 <strong>Delegado de turma</strong> e vogal pela ESTG (Lousada)<br>
