@@ -1,110 +1,85 @@
-<h2 align="left">Sobre mim:</h2>
+<!-- Banner / Greeting -->
+<h1 align="center" style="color:#a259f7;">Hi There! <span>👋</span></h1>
 
-###
-
-<p>
-  🎓 <strong>Estudante</strong> de Cibersegurança, Redes e Sistemas Informáticos na <strong>ESTG - P.PORTO</strong><br>
-  - Interesse em criptografia, ethical hacking, desenvolvimento de software e cibersegurança<br>
-  💻 <strong>Experiência</strong> em desenvolvimento de software, criptografia e gestão de bases de dados<br>
-  🏫 <strong>Delegado de turma</strong> e vogal pela ESTG (Lousada)<br>
-  - Membro ativo do <strong>NEI</strong> (Núcleo de Estudantes de Informática)<br>
-  🎧 <strong>DJ e produtor musical</strong>
+<p align="center">
+  <b>Cybersecurity, Networks & Information Systems student at ESTG - P.PORTO</b>
 </p>
 
-###
+<p align="center">
+  <img src="https://profile-counter.glitch.me/djDARKWAY/count.svg?" alt="Profile views"/>
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=djDARKWAY&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="130" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djDARKWAY&theme=gotham&hide_border=false" height="130" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djDARKWAY&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="130" alt="stats graph" />
-</div>
- 
-###
+---
 
-<h2 align="left">Tech stack:</h2>
+🎓 **Cybersecurity, Networks & Information Systems student** at **ESTG - P.PORTO**
 
-###
+- Passionate about cryptography, ethical hacking, software development, and cybersecurity
+- Experience in software engineering, cryptography, and database management
+- Class representative and board member at ESTG (Lousada)
+- Active member of **NEI** (Student IT Association)
+- DJ & music producer
 
-<h4 align="left">Frontend:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-</div>
+<!-- Tech Stack -->
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 
-###
+<table align="center">
+    <tr>
+        <td align="center"><b>Frontend</b></td>
+        <td align="center"><b>Backend</b></td>
+        <td align="center"><b>Database</b></td>
+        <td align="center"><b>UI/UX Tools</b></td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
+        </td>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
+            <img src="https://i.imgur.com/JoWTwEg.png" height="35" alt="LoopBack"/>
+        </td>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL"/>
+        </td>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
+        </td>
+    </tr>
+</table>
 
-<h4 align="left">Backend:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://i.imgur.com/JoWTwEg.png" height="30" alt="loopback logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-</div>
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djDARKWAY&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djDARKWAY&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="155" alt="Top Languages" />
+</p>
 
-###
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-coelho-759020334/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/djdarkway/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@DJDarkway" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/djdarkway/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
-<h4 align="left">Base de Dados:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-</div>
+---
 
-###
+<!-- Projects / Pinned -->
+<h2 align="center">📌 Pinned Projects</h2>
+<p align="center">
+  <i>Check out my repositories for more!</i>
+</p>
 
-<h4 align="left">UI/UX & Ferramentas:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-</div>
-
-###
-
-<h2 align="left">Links:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-coelho-759020334/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/djdarkway/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@DJDarkway" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discordapp.com/users/djdarkway/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Visitas ao perfil:</h2>
-<div align="left">
-  <img src="https://profile-counter.glitch.me/djDARKWAY/count.svg?"  />
-</div>
-
-###
+<!-- End -->
