@@ -31,7 +31,7 @@
     <td align="center" colspan="2" style="padding: 8px;"><b>Frontend</b></td>
     <td align="center" colspan="2" style="padding: 8px;"><b>Backend</b></td>
     <td align="center" rowspan="2" style="padding: 8px;"><b>Database</b></td>
-    <td align="center" rowspan="2" style="padding: 8px;"><b>UI/UX Tools</b></td>
+    <td align="center" rowspan="2" style="padding: 8px;"><b>UI/UX & Tools</b></td>
   </tr>
   <tr style="border-bottom: 3px solid #000;">
     <td align="center" style="padding: 8px;"><b>Linguagens</b></td>
