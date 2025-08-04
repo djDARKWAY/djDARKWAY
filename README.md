@@ -57,8 +57,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" style="margin: 4px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" style="margin: 4px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" style="margin: 4px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" style="margin: 4px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" style="margin: 4px;"/>
     </td>
     <!-- Backend Frameworks -->
     <td align="center" style="padding: 8px;">
