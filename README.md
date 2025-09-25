@@ -2,7 +2,7 @@
 <h1 align="center" style="color:#a259f7; padding: 16px 0;">Hi There! <span>👋</span></h1>
 
 <p align="center" style="padding: 8px 0;">
-  <b>Cybersecurity, Networks & Information Systems student at ESTG - P.PORTO</b>
+  <b>Computer Engineering Degree student at ESTG - P.PORTO</b>
 </p>
 
 <p align="center" style="padding: 8px 0;">
@@ -10,9 +10,6 @@
 </p>
 
 ---
-
-<div style="padding: 12px 0;">
-🎓 <b>Computer Engineering Degree student</b> at <b>ESTG - P.PORTO</b>
 
 <ul style="padding-left: 24px;">
   <li>Passionate about cryptography, ethical hacking, software development, and cybersecurity</li>
