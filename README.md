@@ -12,7 +12,7 @@
 ---
 
 <div style="padding: 12px 0;">
-🎓 <b>Cybersecurity, Networks & Information Systems student</b> at <b>ESTG - P.PORTO</b>
+🎓 <b>Computer Engineering Degree student</b> at <b>ESTG - P.PORTO</b>
 
 <ul style="padding-left: 24px;">
   <li>Passionate about cryptography, ethical hacking, software development, and cybersecurity</li>
