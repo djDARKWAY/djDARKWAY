@@ -17,7 +17,6 @@
 <ul style="padding-left: 24px;">
   <li>Passionate about cryptography, ethical hacking, software development, and cybersecurity</li>
   <li>Experience in software engineering, cryptography, and database management</li>
-  <li>Class representative and board member at ESTG (Lousada)</li>
   <li>Active member of <b>NEI</b> (Student IT Association)</li>
   <li>DJ & music producer</li>
 </ul>
