@@ -17,7 +17,6 @@
 - 🛠️ I build mobile and web apps end to end: architecture, frontend, backend, databases and geospatial data
 - 🔐 Academic background in cybersecurity and networks; I run and manage my own Debian VPS
 - 🎓 Vice-president of **NEI** (Informatics Students' Nucleus) and board member of the Students' Association at ESTG
-- 🎧 DJ & music producer in my spare time
 
 ### 🛤️ Journey
 
@@ -105,25 +104,6 @@
 </table>
 
 <p align="center"><i>Featured in NIT, Jornal Económico, Tek Sapo, Porto Canal and others.</i></p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djDARKWAY&theme=gotham&show_icons=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djDARKWAY&theme=gotham&layout=compact&langs_count=8" height="160" alt="Top Languages"/>
-</p>
-
-<h2 align="center">🐍 Contributions</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djDARKWAY/djDARKWAY/output/github-snake-purple.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djDARKWAY/djDARKWAY/output/github-snake.svg"/>
-    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/djDARKWAY/djDARKWAY/output/github-snake-dark.svg"/>
-  </picture>
-</p>
 
 ---
 
